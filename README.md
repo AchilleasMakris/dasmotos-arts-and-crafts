@@ -40,5 +40,5 @@ Project is completed as required.
 Author/Contact
 
     M. Achilleas - Initial work
-    Website Preview: https://pricing-dusky.vercel.app/
+    Website Preview: https://dasmotos-arts-and-crafts.vercel.app/
     
