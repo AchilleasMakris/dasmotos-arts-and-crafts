@@ -1,13 +1,14 @@
-Dasmotos Art Project
+**`Dasmotos Art Project`**
 
-Introduction
+
+## Introduction
 
 In this project, you’ll build a simple website for a fictional arts and crafts store using the tools on your own computer. This project will provide you with less guidance than previous projects. You should expect to use the internet, Codecademy, and other resources when you encounter a problem that you cannot easily solve.
 REQUIREMENT
 
-Spec of the website: https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg
+## Spec of the website: https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg
 
-Technologies
+## Technologies
 
 This project is created with:
 
@@ -17,7 +18,7 @@ This project is created with:
     Command Line
     Visual Studio Code
 
-Sources
+## Sources
 
 With the resources available and studies from:
 
@@ -29,15 +30,15 @@ With the resources available and studies from:
     Google research
     
 
-Inspiration
+## Inspiration
 
     Codecademy Project : https://www.codecademy.com/projects/practice/dasmoto
 
-Status
+## Status
 
 Project is completed as required.
 
-Author/Contact
+## Author/Contact
 
     M. Achilleas - Initial work
     Website Preview: https://dasmotos-arts-and-crafts.vercel.app/
